@@ -1,9 +1,9 @@
 <h1>PPS - UTN FRA 2020 - COHERENCE</h1>
 
 <h2>Integrantes</h3>
-<h3>Lucas Hulej      Alfa α</h3>
-<h3>Patricio Attie   Beta βγ</h3>
-<h3>Franco Lippi     Gamma</h3>
+<h3>Lucas Hulej (Alfa α)</h3>
+<h3>Patricio Attie (Beta β)</h3>
+<h3>Franco Lippi (Gamma γ)</h3>
 
 <h2>Branchs</h2>
 <h3>PATO</h3>
