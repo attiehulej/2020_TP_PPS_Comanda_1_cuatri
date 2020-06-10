@@ -1,12 +1,24 @@
-<h1>2020 - 1 cuatrimestre - PPS -- La Comanda</h1>
-
-Para registrar el <strong>grupo completo</strong> con todos sus integrantes: https://forms.gle/yaGSdKiuaoR4iMWJ9
-
-<br>
-
-Grupos:<br>
-<h4>Máximo 3 integrantes</h4>
-<h4>Mínimo 2 integrantes</h4>
-<h2>Código Qr - diagrama tentativo - </h2>
-  
-  <img src="https://github.com/maxineiner/2020_TP_PPS_Comanda_1_cuatri/blob/master/Diagrama_QR_MESA.jpg" >
+PPS - UTN FRA 2020 - COHERENCE
+Integrantes
+Patricio
+Lucas
+Franco
+Branchs
+PATO
+LUCAS
+FLIPPI
+TEST
+PROD
+Tareas
+1er Semana (23/05 al 30/05)
+Creación de repositorio
+Armado de estructura de la aplicacion
+Definicion de tareas para cada integrante del equipo
+Servicios de Firebase
+Login funcional
+Icono y Splash Screen con Logo de la aplicación
+2er Semana (05/06 al 13/06)
+ABM Usuarios
+ABM Mesas
+ABM Productos
+Servicios de Firebase
