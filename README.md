@@ -14,17 +14,17 @@
 
 <h2>Tareas</h2>
 <h2>1er Semana (23/05 al 30/05)</h2>
-<h3>Creación de repositorio</h3>
-<h3>Armado de estructura de la aplicacion</h3>
-<h3>Definicion de tareas para cada integrante del equipo</h3>
-<h3>Servicios de Firebase</h3>
-<h3>Login funcional</h3>
-<h3>Icono y Splash Screen con Logo de la aplicación</h3>
+<h3>Creación de repositorio - Beta</h3>
+<h3>Armado de estructura de la aplicacion - TODOS</h3>
+<h3>Definicion de tareas para cada integrante del equipo - TODOS</h3>
+<h3>Servicios de Firebase - Gamma</h3>
+<h3>Login funcional - Alfa</h3>
+<h3>Icono y Splash Screen con Logo de la aplicación - Alfa</h3>
 <h2>2er Semana (05/06 al 13/06)</h2>
-<h3>ABM Usuarios</h3>
-<h3>ABM Mesas</h3>
-<h3>ABM Productos</h3>
-<h3>Servicios de Firebase</h3>
+<h3>ABM Usuarios - Alfa</h3>
+<h3>ABM Mesas - Beta</h3>
+<h3>ABM Productos - Beta</h3>
+<h3>Servicios de Firebase - Gamma</h3>
 <h2>3er Semana</h2>
-<h3>Clientes Pendientes</h3>
-<h3>Pedir Productos</h3>
+<h3>Clientes Pendientes - Alfa</h3>
+<h3>Pedir Productos - Alfa</h3>
